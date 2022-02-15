@@ -1,3 +1,11 @@
 body {
     font-family: Helvetica, "Helvetica Neue", sans-serif;
 }
+
+#main_content {
+    color: red;
+}
+
+.cursive {
+    font-family: cursive, Helvetica, sans-serif;
+}
